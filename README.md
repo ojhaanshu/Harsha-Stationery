@@ -4,7 +4,7 @@ It also provide weekly sales graph and billing system.
 This application is totally built using java from frontend to backend.
 
 **Technologies used**
--Frontend : Java Swing.
--Backend : java.
--Database :MySql.
--IDE : Apache NetBeans IDE 18
+   -Frontend : Java Swing.
+   -Backend : java.
+   -Database :MySql.
+   -IDE : Apache NetBeans IDE 18
